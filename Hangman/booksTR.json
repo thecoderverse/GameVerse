@@ -1,0 +1,195 @@
+[
+    {
+      "title": "Don Kişot",
+      "author": "Miguel de Cervantes",
+      "country": "İspanya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Savaş ve Barış",
+      "author": "Lev Tolstoy",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "country": "Fransa",
+      "genre": "Roman"
+    },
+    {
+      "title": "Suç ve Ceza",
+      "author": "Fyodor Dostoyevski",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "country": "İngiltere",
+      "genre": "Oyun"
+    },
+    {
+      "title": "Yeraltından Notlar",
+      "author": "Fyodor Dostoyevski",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Lev Tolstoy",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "country": "İngiltere",
+      "genre": "Oyun"
+    },
+    {
+      "title": "On Savaş",
+      "author": "Sun Tzu",
+      "country": "Çin",
+      "genre": "Felsefe"
+    },
+    {
+      "title": "Prens",
+      "author": "Niccolò Machiavelli",
+      "country": "İtalya",
+      "genre": "Felsefe"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "country": "İngiltere",
+      "genre": "Roman"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "country": "İngiltere",
+      "genre": "Distopya"
+    },
+    {
+      "title": "Bülbülü Öldürmek",
+      "author": "Harper Lee",
+      "country": "ABD",
+      "genre": "Roman"
+    },
+    {
+      "title": "Cesur Yeni Dünya",
+      "author": "Aldous Huxley",
+      "country": "İngiltere",
+      "genre": "Distopya"
+    },
+    {
+      "title": "Güliver'in Gezileri",
+      "author": "Jonathan Swift",
+      "country": "İngiltere",
+      "genre": "Roman"
+    },
+    {
+      "title": "Karamazov Kardeşler",
+      "author": "Fyodor Dostoyevski",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Vahşetin Çağrısı",
+      "author": "Jack London",
+      "country": "ABD",
+      "genre": "Macera"
+    },
+    {
+      "title": "Monte Cristo Kontu",
+      "author": "Alexandre Dumas",
+      "country": "Fransa",
+      "genre": "Roman"
+    },
+    {
+      "title": "Körlük",
+      "author": "José Saramago",
+      "country": "Portekiz",
+      "genre": "Roman"
+    },
+    {
+      "title": "Yabancı",
+      "author": "Albert Camus",
+      "country": "Cezayir/Fransa",
+      "genre": "Roman"
+    },
+    {
+      "title": "Vatan Yahut Silistre",
+      "author": "Namık Kemal",
+      "country": "Osmanlı İmparatorluğu",
+      "genre": "Roman"
+    },
+    {
+      "title": "Çavdar Tarlasında Çocuklar",
+      "author": "J.D. Salinger",
+      "country": "ABD",
+      "genre": "Roman"
+    },
+    {
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "country": "Türkiye",
+      "genre": "Roman"
+    },
+    {
+      "title": "Gölgelerin Efendisi",
+      "author": "J.R.R. Tolkien",
+      "country": "İngiltere",
+      "genre": "Fantastik"
+    },
+    {
+      "title": "Uğultulu Tepeler",
+      "author": "Emily Brontë",
+      "country": "İngiltere",
+      "genre": "Roman"
+    },
+    {
+      "title": "Gulyabani",
+      "author": "Reşat Nuri Güntekin",
+      "country": "Türkiye",
+      "genre": "Roman"
+    },
+    {
+      "title": "Dönüşüm",
+      "author": "Franz Kafka",
+      "country": "Avusturya-Macaristan",
+      "genre": "Novella"
+    },
+    {
+      "title": "Kokteyl",
+      "author": "Julio Cortázar",
+      "country": "Arjantin",
+      "genre": "Hikaye"
+    },
+    {
+      "title": "Büyük Umutlar",
+      "author": "Charles Dickens",
+      "country": "İngiltere",
+      "genre": "Roman"
+    },
+    {
+      "title": "Köpek Kalbi",
+      "author": "Mikhail Bulgakov",
+      "country": "Rusya",
+      "genre": "Roman"
+    },
+    {
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "country": "Fransa",
+      "genre": "Roman"
+    },
+    {
+      "title": "Göçebe",
+      "author": "Halide Edib Adıvar",
+      "country": "Osmanlı İmparatorluğu",
+      "genre": "Roman"
+    }
+  ]
+  
