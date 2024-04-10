@@ -1,0 +1,195 @@
+[
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "genre": "Novel"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "genre": "Novel"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "country": "England",
+      "genre": "Play"
+    },
+    {
+      "title": "Notes from Underground",
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "country": "England",
+      "genre": "Play"
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "country": "China",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "country": "Italy",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "country": "England",
+      "genre": "Novel"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "country": "England",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "country": "USA",
+      "genre": "Novel"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "country": "England",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "country": "England",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "country": "USA",
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "country": "France",
+      "genre": "Novel"
+    },
+    {
+      "title": "Blindness",
+      "author": "José Saramago",
+      "country": "Portugal",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "country": "Algeria/France",
+      "genre": "Novel"
+    },
+    {
+      "title": "Vatan Yahut Silistre",
+      "author": "Namık Kemal",
+      "country": "Ottoman Empire",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "country": "USA",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Madonna in the Fur Coat",
+      "author": "Sabahattin Ali",
+      "country": "Turkey",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "country": "England",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "country": "England",
+      "genre": "Novel"
+    },
+    {
+      "title": "Gulyabani",
+      "author": "Reşat Nuri Güntekin",
+      "country": "Turkey",
+      "genre": "Novel"
+    },
+    {
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "country": "Austria-Hungary",
+      "genre": "Novella"
+    },
+    {
+      "title": "Hopscotch",
+      "author": "Julio Cortázar",
+      "country": "Argentina",
+      "genre": "Short Story"
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "country": "England",
+      "genre": "Novel"
+    },
+    {
+      "title": "Heart of a Dog",
+      "author": "Mikhail Bulgakov",
+      "country": "Russia",
+      "genre": "Novel"
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "country": "France",
+      "genre": "Novel"
+    },
+    {
+      "title": "Handan",
+      "author": "Halide Edib Adıvar",
+      "country": "Ottoman Empire",
+      "genre": "Novel"
+    }
+  ]
+  
