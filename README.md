@@ -4,8 +4,9 @@ Genellikle terminalden çalışan, metin tabanlı ve çok karmaşık olmayan oyu
 ## Öneriler
 
 - [ ] **FindTheCtry:** Basit senaryo; Aklımdan bir ülke tutacağım ve sorularınla onu bulmaya çalışacaksın. Temel kuralları ise şöyle. Sorularında başka bir ülke adını kullanamazsın, aynı soruyu 2 kez soramazsın, en fazla beş soru sorabilirsin, sadece 3 tahmin hakkın var.
-- [ ] **Hangman:** Basit senaryo; Seçtiğin kategoride aklımdan dünya klasiklerinden bir kitap adı tutacağım. Kitap adının kaç harf olduğunu ve bir adet bonus harf vereceğim. Temel kurallar ise şöyle;  doğru tahminler vererek kendini hayatta tutmak olacak, 6 hatalı tahmin sonucunda asılarak oyunu kaybetmiş olacaksın.
-- [ ] **GuessingGame:** Bu oyun kullanıcının bir sayıyı tahmin etmesine dayanan basit bir oyun sunar. Oyun, kullanıcının her doğru tahmin ettiği sayı için seviye atlamasına olanak tanır. Oyun detayı için [GuessingGame](./GuessingGame/readme.md) dosyasına gidiniz.
+- [x] **Hangman:** Basit senaryo; Seçtiğin kategoride aklımdan dünya klasiklerinden bir kitap adı tutacağım. Kitap adının kaç harf olduğunu ve bir adet bonus harf vereceğim. Temel kurallar ise şöyle;  doğru tahminler vererek kendini hayatta tutmak olacak, 6 hatalı tahmin sonucunda asılarak oyunu kaybetmiş olacaksın.
+- [x] **GuessingGame:** Bu oyun kullanıcının bir sayıyı tahmin etmesine dayanan basit bir oyun sunar. Oyun, kullanıcının her doğru tahmin ettiği sayı için seviye atlamasına olanak tanır. Oyun detayı için [GuessingGame](./GuessingGame/readme.md) dosyasına gidiniz.
+- [ ] **GuessingGame II:** Bu oyun kullanıcının aklından tuttuğu sayıyı bilgisayarın tahmin ettiği bir oyunudur. Oyuncu bilgisayarın her tahmininde eğer sayı doğru değilse ona ip ucu vererek sayıyı bulmasına yardım eder.
 - [x] **MiniQuiz(mini-quiz):** Rust programlama dili ile yazılmış basit bir soru cevap oyunu.
 
 
